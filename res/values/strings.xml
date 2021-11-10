@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+    <string name="welcome">Welcome</string>
+    <string name="submit">Submit</string>
+    <string name="age_calculator">AGE CALCULATOR</string>
+    <string name="enter_your_date_of_birth">Enter Your Date Of Birth</string>
+    <string name="to">TO</string>
+    <string name="this_is_age_calculator_app_which_calculates_your_age_based_on_your_date_of_birth_with_respect_to_curent_time_day_month_and_year_use_our_app_and_calculate_your_age_now">This is age calculator app which calculates your age based on your date of birth with respect to curent time day month and year.Use Our app and calculate your age now :)</string>
+    <string name="d">DATE</string>
+    <string name="m">MONTH</string>
+    <string name="y">YEAR</string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="thank_you">Thank You</string>
+    <string name="thank_you_for_using_our_app_we_hope_you_had_calculated_your_age_and_liked_our_app_please_rate_our_app_before_leaving_it_thank_you">Thank You for using our app , We hope you had calculated your age and liked our app please rate our app before leaving it. Thank You :)</string>
+    <string name="your_age_is">Your Age Is</string>
+</resources>
